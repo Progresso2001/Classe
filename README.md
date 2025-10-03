@@ -1,3 +1,8 @@
+<p align="center">
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+
 Classe Pessoa em Python
 Este projeto contém uma classe Pessoa que representa uma pessoa com atributos como nome, idade, cidade e país. A classe permite criar objetos com essas informações e fornecer uma descrição do endereço e um método para retornar um valor que simula um email.
 
